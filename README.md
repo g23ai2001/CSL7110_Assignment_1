@@ -93,13 +93,7 @@ CSL7110_Assignment_1/
 │   ├── question_11.py      # Q11
 │   └── question_12.py        # Q12
 │
-├── output/                       # Execution results and screenshots
-│   ├── q1_wordcount_output.txt
-│   ├── q7_execution_screenshot.png
-│   ├── q9_performance_comparison.csv
-│   ├── q10_metadata_analysis.csv
-│   ├── q11_similarity_results.csv
-│   └── q12_network_metrics.csv
+│  
 │
 ├── requirements.txt              # Python dependencies
 └── README.md                     # This file
